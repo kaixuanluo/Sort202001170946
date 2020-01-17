@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChartView">
+        <attr name="chartTextColor" format="color|reference" /><!--文字颜色-->
+        <attr name="chartTextSize"  format="dimension"/><!--文字字体大小-->
+        <attr name="chartColor"  format="color|reference"/><!--文字字体大小-->
+        <attr name="chartColor2"  format="color|reference"/><!--文字字体大小-->
+        <attr name="chartColor3"  format="color|reference"/><!--文字字体大小-->
+        <attr name="chartTopColor"  format="color|reference"/><!--文字字体大小-->
+        <attr name="chartBottomColor"  format="color|reference"/><!--文字字体大小-->
+        <attr name="chartSpace"  format="dimension"/><!--文字字体大小-->
+        <attr name="chartInterval"  format="integer"/><!--文字字体大小-->
+    </declare-styleable>
+</resources>
